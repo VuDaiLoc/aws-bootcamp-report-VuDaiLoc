@@ -1,6 +1,6 @@
 baseURL = "https://vudailoc.github.io/aws-bootcamp-report-VuDaiLoc/"
-relativeURLs = true
-canonifyURLs = false
+relativeURLs = false
+canonifyURLs = true
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
