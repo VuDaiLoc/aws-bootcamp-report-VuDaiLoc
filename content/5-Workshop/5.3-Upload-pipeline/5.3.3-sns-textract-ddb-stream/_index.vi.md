@@ -188,9 +188,6 @@ Sau khi hoàn thành cả mục 5.3.2 và 5.3.3, file `backend.ts` sẽ bao gồ
 10. DynamoDB Stream → Lambda B (permissions + event source + filter)
 ```
 
-![PLACEHOLDER-5.3-02](/images/5-Workshop/5.3-Upload-pipeline/5.3-02-backend-ts-full-overview.png)
-*[ẢNH CẦN CHỤP 5.3-02]: Toàn bộ file `backend.ts` trong IDE (collapsed view hoặc minimap), cho thấy tổng quan cấu trúc file ~250 dòng*
-
 ---
 
 ### Kết quả mong đợi

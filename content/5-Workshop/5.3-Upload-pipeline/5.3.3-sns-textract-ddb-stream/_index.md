@@ -179,9 +179,6 @@ Once sections 5.3.2 and 5.3.3 are merged, your `backend.ts` file will follow thi
 10. Set up DynamoDB Stream triggers for Lambda B
 ```
 
-![PLACEHOLDER-5.3-02](/images/5-Workshop/5.3-Upload-pipeline/5.3-02-backend-ts-full-overview.png)
-*[IMAGE TO CAPTURE 5.3-02]: High-level overview of the backend.ts configuration inside the IDE editor panel (~250 lines)*
-
 ---
 
 ### Expected Results
