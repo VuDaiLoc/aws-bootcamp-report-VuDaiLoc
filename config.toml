@@ -1,4 +1,4 @@
-baseURL = "https://workshop-sample.awsfcaj.com/"
+baseURL = "https://vudailoc.github.io/aws-bootcamp-report-VuDaiLoc/"
 relativeURLs = false
 canonifyURLs = false
 defaultContentLanguage = "en"
