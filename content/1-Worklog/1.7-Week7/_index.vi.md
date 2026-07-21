@@ -16,10 +16,10 @@ pre: " <b> 1.7. </b> "
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
 | 2 | - Tìm hiểu mô hình Shared Responsibility Model của AWS: phân biệt trách nhiệm bảo mật của AWS và khách hàng, ứng dụng trong thực tế khi triển khai dịch vụ. | 01/06/2026 | 01/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 3 | - Tìm hiểu về Amazon IAM: quản lý user, group, role và policy; phân biệt Identity-based policy và Resource-based policy; thực hành gán quyền theo nguyên tắc Least Privilege. | 02/06/2026 | 02/06/2026 |  |
-| 4 | - Tìm hiểu về Amazon Cognito: cách xác thực và phân quyền người dùng cho ứng dụng web/mobile thông qua User Pool và Identity Pool. | 03/06/2026 | 03/06/2026 |  |
-| 5 | - Tìm hiểu về AWS Organizations: cấu trúc OU (Organizational Unit), Service Control Policy (SCP) và cách quản lý tập trung nhiều tài khoản AWS. | 04/06/2026 | 04/06/2026 |  |
-| 6 | - Tìm hiểu về AWS Identity Center (trước đây là AWS SSO): cấu hình đăng nhập một lần (Single Sign-On) cho phép truy cập nhiều tài khoản AWS và ứng dụng qua một cổng thông tin duy nhất. | 05/06/2026 | 05/06/2026 |  |
+| 3 | - Tìm hiểu về Amazon IAM: quản lý user, group, role và policy; phân biệt Identity-based policy và Resource-based policy; thực hành gán quyền theo nguyên tắc Least Privilege. | 02/06/2026 | 02/06/2026 | <https://000002.awsstudygroup.com> |
+| 4 | - Tìm hiểu về Amazon Cognito: cách xác thực và phân quyền người dùng cho ứng dụng web/mobile thông qua User Pool và Identity Pool. | 03/06/2026 | 03/06/2026 | <https://000141.awsstudygroup.com> |
+| 5 | - Tìm hiểu về AWS Organizations: cấu trúc OU (Organizational Unit), Service Control Policy (SCP) và cách quản lý tập trung nhiều tài khoản AWS. | 04/06/2026 | 04/06/2026 | <https://000012.awsstudygroup.com> |
+| 6 | - Tìm hiểu về AWS Identity Center (trước đây là AWS SSO): cấu hình đăng nhập một lần (Single Sign-On) cho phép truy cập nhiều tài khoản AWS và ứng dụng qua một cổng thông tin duy nhất. | 05/06/2026 | 05/06/2026 | <https://000012.awsstudygroup.com> |
 
 
 ### Kết quả đạt được tuần 7:

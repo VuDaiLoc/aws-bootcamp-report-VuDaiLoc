@@ -16,10 +16,10 @@ pre: " <b> 1.4. </b> "
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | --- | --- | --- | --- |
 | 2 | - Learn about VPC Peering and how to connect two VPCs together within the same or different Region/Account. | 11/05/2026 | 11/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 3 | - Learn about AWS Transit Gateway to connect multiple VPCs and on-premises environments in a hub-and-spoke model. | 12/05/2026 | 12/05/2026 |  |
-| 4 | - Practice configuring VPC Endpoints (Gateway and Interface) to access AWS services without going through the internet. | 13/05/2026 | 13/05/2026 |  |
-| 5 | - Learn about AWS Direct Connect and how it differs from Site-to-Site VPN. | 14/05/2026 | 14/05/2026 |  |
-| 6 | - Learn about Elastic Load Balancing (ELB): distinguish Application Load Balancer, Network Load Balancer and Classic Load Balancer; practice deploying an Application Load Balancer, configuring a Target Group and testing traffic distribution. | 15/05/2026 | 15/05/2026 |  |
+| 3 | - Learn about AWS Transit Gateway to connect multiple VPCs and on-premises environments in a hub-and-spoke model. | 12/05/2026 | 12/05/2026 | <https://000020.awsstudygroup.com> |
+| 4 | - Practice configuring VPC Endpoints (Gateway and Interface) to access AWS services without going through the internet. | 13/05/2026 | 13/05/2026 | <https://000111.awsstudygroup.com> |
+| 5 | - Learn about AWS Direct Connect and how it differs from Site-to-Site VPN. | 14/05/2026 | 14/05/2026 | <https://cloudjourney.awsstudygroup.com/1-explore/> |
+| 6 | - Learn about Elastic Load Balancing (ELB): distinguish Application Load Balancer, Network Load Balancer and Classic Load Balancer; practice deploying an Application Load Balancer, configuring a Target Group and testing traffic distribution. | 15/05/2026 | 15/05/2026 | <https://000101.awsstudygroup.com> |
 
 
 ### Results achieved in week 4:

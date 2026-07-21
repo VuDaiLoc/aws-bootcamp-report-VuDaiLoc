@@ -16,10 +16,10 @@ pre: " <b> 1.2. </b> "
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
 | 2 | - Tìm hiểu về bảo mật trong AWS và vai trò của MFA (Multi-Factor Authentication) trong việc bảo vệ tài khoản. | 24/04/2026 | 24/04/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 3 | - Thực hành kích hoạt xác thực đa yếu tố (MFA) cho tài khoản AWS. | 25/04/2026 | 25/04/2026 |  |
-| 4 | - Tạo IAM Group và thực hành phân quyền cho user trong group. | 26/04/2026 | 26/04/2026 |  |
-| 5 | - Tìm hiểu cơ chế bảo mật tài khoản AWS (root user, IAM best practices). | 27/04/2026 | 27/04/2026 |  |
-| 6 | - Thực hành tạo và quản lý AWS Budget để theo dõi chi phí (Cost Budget, Usage Budget). | 28/04/2026 | 28/04/2026 |  |
+| 3 | - Thực hành kích hoạt xác thực đa yếu tố (MFA) cho tài khoản AWS. | 25/04/2026 | 25/04/2026 | <https://000002.awsstudygroup.com> |
+| 4 | - Tạo IAM Group và thực hành phân quyền cho user trong group. | 26/04/2026 | 26/04/2026 | <https://000002.awsstudygroup.com> |
+| 5 | - Tìm hiểu cơ chế bảo mật tài khoản AWS (root user, IAM best practices). | 27/04/2026 | 27/04/2026 | <https://000002.awsstudygroup.com> |
+| 6 | - Thực hành tạo và quản lý AWS Budget để theo dõi chi phí (Cost Budget, Usage Budget). | 28/04/2026 | 28/04/2026 | <https://000007.awsstudygroup.com> |
 
 
 ### Kết quả đạt được tuần 2:

@@ -16,10 +16,10 @@ pre: " <b> 1.2. </b> "
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | --- | --- | --- | --- |
 | 2 | - Learn about AWS security and the role of MFA (Multi-Factor Authentication) in protecting accounts. | 24/04/2026 | 24/04/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 3 | - Practice enabling Multi-Factor Authentication (MFA) for an AWS account. | 25/04/2026 | 25/04/2026 |  |
-| 4 | - Create an IAM Group and practice assigning permissions to users within the group. | 26/04/2026 | 26/04/2026 |  |
-| 5 | - Learn about AWS account security mechanisms (root user, IAM best practices). | 27/04/2026 | 27/04/2026 |  |
-| 6 | - Practice creating and managing AWS Budgets to track costs (Cost Budget, Usage Budget). | 28/04/2026 | 28/04/2026 |  |
+| 3 | - Practice enabling Multi-Factor Authentication (MFA) for an AWS account. | 25/04/2026 | 25/04/2026 | <https://000002.awsstudygroup.com> |
+| 4 | - Create an IAM Group and practice assigning permissions to users within the group. | 26/04/2026 | 26/04/2026 | <https://000002.awsstudygroup.com> |
+| 5 | - Learn about AWS account security mechanisms (root user, IAM best practices). | 27/04/2026 | 27/04/2026 | <https://000002.awsstudygroup.com> |
+| 6 | - Practice creating and managing AWS Budgets to track costs (Cost Budget, Usage Budget). | 28/04/2026 | 28/04/2026 | <https://000007.awsstudygroup.com> |
 
 
 ### Results achieved in week 2:

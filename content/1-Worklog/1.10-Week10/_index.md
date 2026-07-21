@@ -15,11 +15,11 @@ pre: " <b> 1.10. </b> "
 ### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | --- | --- | --- | --- |
-| 2 | - Continue implementing the AI-Powered Smart Document Assistant project based on the specification and architecture designed in week 9, starting the backend foundation build with AWS Amplify Gen 2. | 22/06/2026 | 22/06/2026 | AWS Amplify Gen 2 Documentation Amazon Cognito Documentation |
-| 3 | - Initialize the Angular 18+ project (Standalone Components + Signals) and integrate AWS Amplify Gen 2 (TypeScript), configuring a local sandbox for backend development and testing. | 23/06/2026 | 23/06/2026 |  |
-| 4 | - Build the Authentication & Authorization module with Amazon Cognito: configure Email + Password sign-up/sign-in. | 24/06/2026 | 24/06/2026 |  |
-| 5 | - Integrate Social Login (Google, Facebook), set up password recovery and two-factor authentication (MFA). | 25/06/2026 | 25/06/2026 |  |
-| 6 | - Set up the storage and data foundation: configure Amazon S3 for storing original documents, design the Amazon DynamoDB schema for document metadata, and set up three-tier file access control (Private, Protected, Public). | 26/06/2026 | 26/06/2026 |  |
+| 2 | - Continue implementing the AI-Powered Smart Document Assistant project based on the specification and architecture designed in week 9, starting the backend foundation build with AWS Amplify Gen 2. | 22/06/2026 | 22/06/2026 | <https://000134.awsstudygroup.com/> |
+| 3 | - Initialize the Angular 18+ project (Standalone Components + Signals) and integrate AWS Amplify Gen 2 (TypeScript), configuring a local sandbox for backend development and testing. | 23/06/2026 | 23/06/2026 | <https://000134.awsstudygroup.com/> |
+| 4 | - Build the Authentication & Authorization module with Amazon Cognito: configure Email + Password sign-up/sign-in. | 24/06/2026 | 24/06/2026 | <https://000081.awsstudygroup.com/> |
+| 5 | - Integrate Social Login (Google, Facebook), set up password recovery and two-factor authentication (MFA). | 25/06/2026 | 25/06/2026 | <https://000081.awsstudygroup.com/> |
+| 6 | - Set up the storage and data foundation: configure Amazon S3 for storing original documents, design the Amazon DynamoDB schema for document metadata, and set up three-tier file access control (Private, Protected, Public). | 26/06/2026 | 26/06/2026 | <https://000134.awsstudygroup.com/> |
 
 
 ### Results achieved in week 10:

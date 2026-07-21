@@ -16,10 +16,10 @@ pre: " <b> 1.3. </b> "
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
 | 2 | - Tìm hiểu về Amazon VPC và các thành phần mạng cơ bản trên AWS. | 04/05/2026 | 04/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 3 | - Thực hành tạo VPC với Subnet public và private, cấu hình Internet Gateway và Route Table. | 05/05/2026 | 05/05/2026 |  |
-| 4 | - Tìm hiểu về Security Group và Network ACL để kiểm soát traffic trong VPC. | 06/05/2026 | 06/05/2026 |  |
-| 5 | - Triển khai Amazon EC2 Instance bên trong VPC tùy chỉnh. | 07/05/2026 | 07/05/2026 |  |
-| 6 | - Tìm hiểu về Site-to-Site VPN, cách kết nối môi trường on-premise với AWS Cloud, thực hành cấu hình Customer Gateway, Virtual Private Gateway và VPN Connection. | 08/05/2026 | 08/05/2026 |  |
+| 3 | - Thực hành tạo VPC với Subnet public và private, cấu hình Internet Gateway và Route Table. | 05/05/2026 | 05/05/2026 | <https://000003.awsstudygroup.com> |
+| 4 | - Tìm hiểu về Security Group và Network ACL để kiểm soát traffic trong VPC. | 06/05/2026 | 06/05/2026 | <https://000003.awsstudygroup.com> |
+| 5 | - Triển khai Amazon EC2 Instance bên trong VPC tùy chỉnh. | 07/05/2026 | 07/05/2026 | <https://000003.awsstudygroup.com> |
+| 6 | - Tìm hiểu về Site-to-Site VPN, cách kết nối môi trường on-premise với AWS Cloud, thực hành cấu hình Customer Gateway, Virtual Private Gateway và VPN Connection. | 08/05/2026 | 08/05/2026 | <https://000092.awsstudygroup.com> |
 
 
 ### Kết quả đạt được tuần 3:

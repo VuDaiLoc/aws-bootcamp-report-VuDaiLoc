@@ -15,11 +15,11 @@ pre: " <b> 1.10. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
-| 2 | - Tiếp tục triển khai dự án AI-Powered Smart Document Assistant dựa trên đặc tả và kiến trúc đã thiết kế ở tuần 9, bắt đầu giai đoạn xây dựng nền tảng backend với AWS Amplify Gen 2. | 22/06/2026 | 22/06/2026 | AWS Amplify Gen 2 Documentation Amazon Cognito Documentation |
-| 3 | - Khởi tạo project Angular 18+ (Standalone Components + Signals) và tích hợp AWS Amplify Gen 2 (TypeScript), cấu hình local sandbox để phát triển và kiểm thử backend. | 23/06/2026 | 23/06/2026 |  |
-| 4 | - Xây dựng module Authentication & Authorization với Amazon Cognito: cấu hình đăng ký/đăng nhập bằng Email + Password. | 24/06/2026 | 24/06/2026 |  |
-| 5 | - Tích hợp Social Login (Google, Facebook), thiết lập quên mật khẩu và xác thực hai lớp (MFA). | 25/06/2026 | 25/06/2026 |  |
-| 6 | - Thiết lập nền tảng lưu trữ và dữ liệu: cấu hình Amazon S3 lưu trữ tài liệu gốc, thiết kế schema Amazon DynamoDB lưu metadata tài liệu, phân quyền truy cập file theo ba cấp độ (Private, Protected, Public). | 26/06/2026 | 26/06/2026 |  |
+| 2 | - Tiếp tục triển khai dự án AI-Powered Smart Document Assistant dựa trên đặc tả và kiến trúc đã thiết kế ở tuần 9, bắt đầu giai đoạn xây dựng nền tảng backend với AWS Amplify Gen 2. | 22/06/2026 | 22/06/2026 | <https://000134.awsstudygroup.com/> |
+| 3 | - Khởi tạo project Angular 18+ (Standalone Components + Signals) và tích hợp AWS Amplify Gen 2 (TypeScript), cấu hình local sandbox để phát triển và kiểm thử backend. | 23/06/2026 | 23/06/2026 | <https://000134.awsstudygroup.com/> |
+| 4 | - Xây dựng module Authentication & Authorization với Amazon Cognito: cấu hình đăng ký/đăng nhập bằng Email + Password. | 24/06/2026 | 24/06/2026 | <https://000081.awsstudygroup.com/> |
+| 5 | - Tích hợp Social Login (Google, Facebook), thiết lập quên mật khẩu và xác thực hai lớp (MFA). | 25/06/2026 | 25/06/2026 | <https://000081.awsstudygroup.com/> |
+| 6 | - Thiết lập nền tảng lưu trữ và dữ liệu: cấu hình Amazon S3 lưu trữ tài liệu gốc, thiết kế schema Amazon DynamoDB lưu metadata tài liệu, phân quyền truy cập file theo ba cấp độ (Private, Protected, Public). | 26/06/2026 | 26/06/2026 | <https://000134.awsstudygroup.com/> |
 
 
 ### Kết quả đạt được tuần 10:

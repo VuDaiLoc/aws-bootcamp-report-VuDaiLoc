@@ -16,10 +16,10 @@ pre: " <b> 1.6. </b> "
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
 | 2 | - Tìm hiểu tổng quan về các dịch vụ lưu trữ trên AWS và vai trò của từng dịch vụ trong hạ tầng đám mây. | 25/05/2026 | 25/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 3 | - Tìm hiểu về Amazon S3: khái niệm bucket, object, các loại storage class (Standard, IA, Glacier) và chính sách quản lý vòng đời dữ liệu (Lifecycle Policy). | 26/05/2026 | 26/05/2026 |  |
-| 4 | - Thực hành cấu hình Access Control List (ACL) và Bucket Policy để kiểm soát quyền truy cập vào S3 Bucket theo nguyên tắc ít quyền nhất (Least Privilege). | 27/05/2026 | 27/05/2026 |  |
-| 5 | - Tìm hiểu và thực hành triển khai website tĩnh trên Amazon S3 kết hợp cấu hình CORS (Cross-Origin Resource Sharing). | 28/05/2026 | 28/05/2026 |  |
-| 6 | - Tìm hiểu về AWS Snow Family (Snowball, Snowball Edge, Snowcone), Storage Gateway và các giải pháp backup dữ liệu giữa on-premise và AWS. | 29/05/2026 | 29/05/2026 |  |
+| 3 | - Tìm hiểu về Amazon S3: khái niệm bucket, object, các loại storage class (Standard, IA, Glacier) và chính sách quản lý vòng đời dữ liệu (Lifecycle Policy). | 26/05/2026 | 26/05/2026 | <https://000057.awsstudygroup.com> |
+| 4 | - Thực hành cấu hình Access Control List (ACL) và Bucket Policy để kiểm soát quyền truy cập vào S3 Bucket theo nguyên tắc ít quyền nhất (Least Privilege). | 27/05/2026 | 27/05/2026 | <https://000069.awsstudygroup.com> |
+| 5 | - Tìm hiểu và thực hành triển khai website tĩnh trên Amazon S3 kết hợp cấu hình CORS (Cross-Origin Resource Sharing). | 28/05/2026 | 28/05/2026 | <https://000057.awsstudygroup.com> |
+| 6 | - Tìm hiểu về AWS Snow Family (Snowball, Snowball Edge, Snowcone), Storage Gateway và các giải pháp backup dữ liệu giữa on-premise và AWS. | 29/05/2026 | 29/05/2026 | <https://000024.awsstudygroup.com> |
 
 
 ### Kết quả đạt được tuần 6:

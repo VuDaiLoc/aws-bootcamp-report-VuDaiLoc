@@ -14,11 +14,11 @@ pre: " <b> 1.12. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
-| 2 | - Tiếp tục phát triển pipeline xử lý AI cho hệ thống AI-Powered Smart Document Assistant bằng các dịch vụ AI trên AWS. | 06/07/2026 | 06/07/2026 | Amazon Textract Documentation Amazon Bedrock Documentation |
-| 3 | - Triển khai Amazon Textract theo cơ chế xử lý bất đồng bộ (Asynchronous Processing), tích hợp Amazon SNS và AWS Lambda để tự động nhận kết quả OCR và cập nhật trạng thái tài liệu. | 07/07/2026 | 07/07/2026 |  |
-| 4 | - Thực hiện trích xuất nội dung từ các định dạng PDF, hình ảnh, DOCX và PPTX; lưu kết quả OCR vào hệ thống lưu trữ và đồng bộ metadata trên Amazon DynamoDB. | 08/07/2026 | 08/07/2026 |  |
-| 5 | - Tích hợp Amazon Bedrock để tự động tóm tắt và phân loại tài liệu dựa trên nội dung đã trích xuất, cập nhật kết quả xử lý theo thời gian thực qua AWS AppSync Subscription. | 09/07/2026 | 09/07/2026 |  |
-| 6 | - Kiểm thử toàn bộ quy trình từ tải tài liệu, OCR, xử lý AI, lưu kết quả đến cập nhật trạng thái; đánh giá hoạt động của hệ thống và tối ưu luồng xử lý. | 10/07/2026 | 10/07/2026 |  |
+| 2 | - Tiếp tục phát triển pipeline xử lý AI cho hệ thống AI-Powered Smart Document Assistant bằng các dịch vụ AI trên AWS. | 06/07/2026 | 06/07/2026 | <https://cloudjourney.awsstudygroup.com/7-aimlservice/> |
+| 3 | - Triển khai Amazon Textract theo cơ chế xử lý bất đồng bộ (Asynchronous Processing), tích hợp Amazon SNS và AWS Lambda để tự động nhận kết quả OCR và cập nhật trạng thái tài liệu. | 07/07/2026 | 07/07/2026 | <https://000077.awsstudygroup.com/> |
+| 4 | - Thực hiện trích xuất nội dung từ các định dạng PDF, hình ảnh, DOCX và PPTX; lưu kết quả OCR vào hệ thống lưu trữ và đồng bộ metadata trên Amazon DynamoDB. | 08/07/2026 | 08/07/2026 | <https://000078.awsstudygroup.com/> |
+| 5 | - Tích hợp Amazon Bedrock để tự động tóm tắt và phân loại tài liệu dựa trên nội dung đã trích xuất, cập nhật kết quả xử lý theo thời gian thực qua AWS AppSync Subscription. | 09/07/2026 | 09/07/2026 | <https://cloudjourney.awsstudygroup.com/7-aimlservice/> |
+| 6 | - Kiểm thử toàn bộ quy trình từ tải tài liệu, OCR, xử lý AI, lưu kết quả đến cập nhật trạng thái; đánh giá hoạt động của hệ thống và tối ưu luồng xử lý. | 10/07/2026 | 10/07/2026 | <https://cloudjourney.awsstudygroup.com/> |
 
 
 ### Kết quả đạt được tuần 12:

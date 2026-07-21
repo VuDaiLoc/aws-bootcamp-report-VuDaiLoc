@@ -16,10 +16,10 @@ pre: " <b> 1.7. </b> "
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | --- | --- | --- | --- |
 | 2 | - Learn about the AWS Shared Responsibility Model: distinguishing AWS's and the customer's security responsibilities, applied in real service deployment. | 01/06/2026 | 01/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 3 | - Learn about Amazon IAM: managing users, groups, roles and policies; distinguishing Identity-based policy from Resource-based policy; practice assigning permissions following the Least Privilege principle. | 02/06/2026 | 02/06/2026 |  |
-| 4 | - Learn about Amazon Cognito: how to authenticate and authorize users for web/mobile applications via User Pool and Identity Pool. | 03/06/2026 | 03/06/2026 |  |
-| 5 | - Learn about AWS Organizations: OU (Organizational Unit) structure, Service Control Policy (SCP) and centralized management of multiple AWS accounts. | 04/06/2026 | 04/06/2026 |  |
-| 6 | - Learn about AWS Identity Center (formerly AWS SSO): configuring Single Sign-On to access multiple AWS accounts and applications through a single portal. | 05/06/2026 | 05/06/2026 |  |
+| 3 | - Learn about Amazon IAM: managing users, groups, roles and policies; distinguishing Identity-based policy from Resource-based policy; practice assigning permissions following the Least Privilege principle. | 02/06/2026 | 02/06/2026 | <https://000002.awsstudygroup.com> |
+| 4 | - Learn about Amazon Cognito: how to authenticate and authorize users for web/mobile applications via User Pool and Identity Pool. | 03/06/2026 | 03/06/2026 | <https://000141.awsstudygroup.com> |
+| 5 | - Learn about AWS Organizations: OU (Organizational Unit) structure, Service Control Policy (SCP) and centralized management of multiple AWS accounts. | 04/06/2026 | 04/06/2026 | <https://000012.awsstudygroup.com> |
+| 6 | - Learn about AWS Identity Center (formerly AWS SSO): configuring Single Sign-On to access multiple AWS accounts and applications through a single portal. | 05/06/2026 | 05/06/2026 | <https://000012.awsstudygroup.com> |
 
 
 ### Results achieved in week 7:

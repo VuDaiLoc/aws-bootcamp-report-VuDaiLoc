@@ -16,11 +16,11 @@ pre: " <b> 1.12. </b> "
 ### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | --- | --- | --- | --- |
-| 2 | - Continue developing the AI processing pipeline for the AI-Powered Smart Document Assistant system using AWS AI services. | 06/07/2026 | 06/07/2026 | Amazon Textract Documentation Amazon Bedrock Documentation |
-| 3 | - Deploy Amazon Textract using Asynchronous Processing, integrating Amazon SNS and AWS Lambda to automatically receive OCR results and update document status. | 07/07/2026 | 07/07/2026 |  |
-| 4 | - Extract content from PDF, image, DOCX and PPTX formats; save OCR results to storage and sync metadata to Amazon DynamoDB. | 08/07/2026 | 08/07/2026 |  |
-| 5 | - Integrate Amazon Bedrock to automatically summarize and classify documents based on extracted content, updating processing results in real time via AWS AppSync Subscription. | 09/07/2026 | 09/07/2026 |  |
-| 6 | - Test the entire flow from document upload, OCR, AI processing, result storage to status update; evaluate system performance and optimize the processing flow. | 10/07/2026 | 10/07/2026 |  |
+| 2 | - Continue developing the AI processing pipeline for the AI-Powered Smart Document Assistant system using AWS AI services. | 06/07/2026 | 06/07/2026 | <https://cloudjourney.awsstudygroup.com/7-aimlservice/> |
+| 3 | - Deploy Amazon Textract using Asynchronous Processing, integrating Amazon SNS and AWS Lambda to automatically receive OCR results and update document status. | 07/07/2026 | 07/07/2026 | <https://000077.awsstudygroup.com/> |
+| 4 | - Extract content from PDF, image, DOCX and PPTX formats; save OCR results to storage and sync metadata to Amazon DynamoDB. | 08/07/2026 | 08/07/2026 | <https://000078.awsstudygroup.com/> |
+| 5 | - Integrate Amazon Bedrock to automatically summarize and classify documents based on extracted content, updating processing results in real time via AWS AppSync Subscription. | 09/07/2026 | 09/07/2026 | <https://cloudjourney.awsstudygroup.com/7-aimlservice/> |
+| 6 | - Test the entire flow from document upload, OCR, AI processing, result storage to status update; evaluate system performance and optimize the processing flow. | 10/07/2026 | 10/07/2026 | <https://cloudjourney.awsstudygroup.com/> |
 
 
 ### Results achieved in week 12:

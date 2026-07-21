@@ -16,10 +16,10 @@ pre: " <b> 1.4. </b> "
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
 | 2 | - Tìm hiểu về VPC Peering và cách kết nối hai VPC với nhau trong cùng hoặc khác Region/Account. | 11/05/2026 | 11/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 3 | - Tìm hiểu về AWS Transit Gateway để kết nối nhiều VPC và môi trường on-premises theo mô hình hub-and-spoke. | 12/05/2026 | 12/05/2026 |  |
-| 4 | - Thực hành cấu hình VPC Endpoint (Gateway và Interface) để truy cập dịch vụ AWS mà không qua internet. | 13/05/2026 | 13/05/2026 |  |
-| 5 | - Tìm hiểu về AWS Direct Connect và sự khác biệt so với Site-to-Site VPN. | 14/05/2026 | 14/05/2026 |  |
-| 6 | - Tìm hiểu về Elastic Load Balancing (ELB): phân biệt Application Load Balancer, Network Load Balancer và Classic Load Balancer; thực hành triển khai Application Load Balancer, cấu hình Target Group và kiểm tra phân phối traffic. | 15/05/2026 | 15/05/2026 |  |
+| 3 | - Tìm hiểu về AWS Transit Gateway để kết nối nhiều VPC và môi trường on-premises theo mô hình hub-and-spoke. | 12/05/2026 | 12/05/2026 | <https://000020.awsstudygroup.com> |
+| 4 | - Thực hành cấu hình VPC Endpoint (Gateway và Interface) để truy cập dịch vụ AWS mà không qua internet. | 13/05/2026 | 13/05/2026 | <https://000111.awsstudygroup.com> |
+| 5 | - Tìm hiểu về AWS Direct Connect và sự khác biệt so với Site-to-Site VPN. | 14/05/2026 | 14/05/2026 | <https://cloudjourney.awsstudygroup.com/1-explore/> |
+| 6 | - Tìm hiểu về Elastic Load Balancing (ELB): phân biệt Application Load Balancer, Network Load Balancer và Classic Load Balancer; thực hành triển khai Application Load Balancer, cấu hình Target Group và kiểm tra phân phối traffic. | 15/05/2026 | 15/05/2026 | <https://000101.awsstudygroup.com> |
 
 
 ### Kết quả đạt được tuần 4:

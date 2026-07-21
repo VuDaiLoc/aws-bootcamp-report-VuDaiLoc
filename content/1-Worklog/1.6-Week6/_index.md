@@ -16,10 +16,10 @@ pre: " <b> 1.6. </b> "
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | --- | --- | --- | --- |
 | 2 | - Learn an overview of AWS storage services and the role of each service in cloud infrastructure. | 25/05/2026 | 25/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 3 | - Learn about Amazon S3: bucket and object concepts, storage classes (Standard, IA, Glacier) and Lifecycle Policy for data management. | 26/05/2026 | 26/05/2026 |  |
-| 4 | - Practice configuring an Access Control List (ACL) and Bucket Policy to control access to an S3 Bucket following the Least Privilege principle. | 27/05/2026 | 27/05/2026 |  |
-| 5 | - Learn about and practice deploying a static website on Amazon S3 combined with CORS (Cross-Origin Resource Sharing) configuration. | 28/05/2026 | 28/05/2026 |  |
-| 6 | - Learn about the AWS Snow Family (Snowball, Snowball Edge, Snowcone), Storage Gateway and data backup solutions between on-premise and AWS. | 29/05/2026 | 29/05/2026 |  |
+| 3 | - Learn about Amazon S3: bucket and object concepts, storage classes (Standard, IA, Glacier) and Lifecycle Policy for data management. | 26/05/2026 | 26/05/2026 | <https://000057.awsstudygroup.com> |
+| 4 | - Practice configuring an Access Control List (ACL) and Bucket Policy to control access to an S3 Bucket following the Least Privilege principle. | 27/05/2026 | 27/05/2026 | <https://000069.awsstudygroup.com> |
+| 5 | - Learn about and practice deploying a static website on Amazon S3 combined with CORS (Cross-Origin Resource Sharing) configuration. | 28/05/2026 | 28/05/2026 | <https://000057.awsstudygroup.com> |
+| 6 | - Learn about the AWS Snow Family (Snowball, Snowball Edge, Snowcone), Storage Gateway and data backup solutions between on-premise and AWS. | 29/05/2026 | 29/05/2026 | <https://000024.awsstudygroup.com> |
 
 
 ### Results achieved in week 6:

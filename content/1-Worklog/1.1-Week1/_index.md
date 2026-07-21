@@ -16,10 +16,10 @@ pre: " <b> 1.1. </b> "
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | --- | --- | --- | --- |
 | 2 | - Learn about the internship company along with its rules and regulations during the internship period. | 17/04/2026 | 17/04/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 3 | - Join the WhatsApp group to connect and communicate with AWS mentors. | 18/04/2026 | 18/04/2026 |  |
-| 4 | - Get familiar with the learning system and lab platforms of the First Cloud AI Journey (FCAJ) program. | 19/04/2026 | 19/04/2026 |  |
-| 5 | - Register an AWS Free Tier account and access the learning/lab platforms. | 20/04/2026 | 20/04/2026 |  |
-| 6 | - Learn about Cloud Computing (deployment models, service models) and get an overview of AWS services. | 21/04/2026 | 21/04/2026 |  |
+| 3 | - Join the WhatsApp group to connect and communicate with AWS mentors. | 18/04/2026 | 18/04/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 4 | - Get familiar with the learning system and lab platforms of the First Cloud AI Journey (FCAJ) program. | 19/04/2026 | 19/04/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 5 | - Register an AWS Free Tier account and access the learning/lab platforms. | 20/04/2026 | 20/04/2026 | <https://000001.awsstudygroup.com> |
+| 6 | - Learn about Cloud Computing (deployment models, service models) and get an overview of AWS services. | 21/04/2026 | 21/04/2026 | <https://cloudjourney.awsstudygroup.com/1-explore/> |
 
 
 ### Results achieved in week 1:

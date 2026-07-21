@@ -16,10 +16,10 @@ pre: " <b> 1.5. </b> "
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | --- | --- | --- | --- |
 | 2 | - Learn an overview of Compute VM services on AWS and the role of Amazon EC2 in cloud infrastructure. | 18/05/2026 | 18/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 3 | - Learn about EC2 Instance Types: categorized by purpose (General Purpose, Compute Optimized, Memory Optimized, Storage Optimized) and how to choose the right instance for a workload. | 19/05/2026 | 19/05/2026 |  |
-| 4 | - Learn about Amazon Machine Image (AMI): concept, and how to create an AMI from an existing instance for backup and reuse. | 20/05/2026 | 20/05/2026 |  |
-| 5 | - Practice configuring a Key Pair to securely authenticate SSH access to an EC2 Instance. | 21/05/2026 | 21/05/2026 |  |
-| 6 | - Learn about Amazon Elastic Block Store (EBS): block storage structure, volume types (gp2, gp3, io1, sc1, st1) and use cases; practice creating, attaching and managing an EBS Volume, and configuring snapshots for data backup. | 22/05/2026 | 22/05/2026 |  |
+| 3 | - Learn about EC2 Instance Types: categorized by purpose (General Purpose, Compute Optimized, Memory Optimized, Storage Optimized) and how to choose the right instance for a workload. | 19/05/2026 | 19/05/2026 | <https://000004.awsstudygroup.com> |
+| 4 | - Learn about Amazon Machine Image (AMI): concept, and how to create an AMI from an existing instance for backup and reuse. | 20/05/2026 | 20/05/2026 | <https://000004.awsstudygroup.com> |
+| 5 | - Practice configuring a Key Pair to securely authenticate SSH access to an EC2 Instance. | 21/05/2026 | 21/05/2026 | <https://000004.awsstudygroup.com> |
+| 6 | - Learn about Amazon Elastic Block Store (EBS): block storage structure, volume types (gp2, gp3, io1, sc1, st1) and use cases; practice creating, attaching and managing an EBS Volume, and configuring snapshots for data backup. | 22/05/2026 | 22/05/2026 | <https://000004.awsstudygroup.com> |
 
 
 ### Results achieved in week 5:

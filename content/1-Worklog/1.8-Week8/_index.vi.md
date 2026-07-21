@@ -16,10 +16,10 @@ pre: " <b> 1.8. </b> "
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
 | 2 | - Tìm hiểu về AWS Key Management Service (KMS): khái niệm mã hóa dữ liệu trên AWS, Customer Managed Key (CMK), AWS Managed Key và các trường hợp sử dụng trong thực tế. | 08/06/2026 | 08/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 3 | - Thực hành tạo và quản lý KMS Key, cấu hình quyền truy cập khóa mã hóa thông qua IAM Policy và Key Policy. | 09/06/2026 | 09/06/2026 |  |
-| 4 | - Tìm hiểu cơ chế mã hóa dữ liệu khi lưu trữ và truyền tải trên các dịch vụ AWS như Amazon S3, Amazon EBS và Amazon RDS bằng AWS KMS. | 10/06/2026 | 10/06/2026 |  |
-| 5 | - Tìm hiểu về AWS Security Hub: vai trò trong việc tập trung giám sát bảo mật, tổng hợp cảnh báo và đánh giá tuân thủ trên nhiều tài khoản AWS. | 11/06/2026 | 11/06/2026 |  |
-| 6 | - Thực hành kích hoạt AWS Security Hub, tích hợp với Amazon GuardDuty, AWS Config và Amazon Inspector; thực hiện các bài Hands-on Lab tổng hợp về AWS Organizations, Identity Center, KMS và Security Hub. | 12/06/2026 | 12/06/2026 |  |
+| 3 | - Thực hành tạo và quản lý KMS Key, cấu hình quyền truy cập khóa mã hóa thông qua IAM Policy và Key Policy. | 09/06/2026 | 09/06/2026 | <https://000033.awsstudygroup.com> |
+| 4 | - Tìm hiểu cơ chế mã hóa dữ liệu khi lưu trữ và truyền tải trên các dịch vụ AWS như Amazon S3, Amazon EBS và Amazon RDS bằng AWS KMS. | 10/06/2026 | 10/06/2026 | <https://000033.awsstudygroup.com> |
+| 5 | - Tìm hiểu về AWS Security Hub: vai trò trong việc tập trung giám sát bảo mật, tổng hợp cảnh báo và đánh giá tuân thủ trên nhiều tài khoản AWS. | 11/06/2026 | 11/06/2026 | <https://000018.awsstudygroup.com> |
+| 6 | - Thực hành kích hoạt AWS Security Hub, tích hợp với Amazon GuardDuty, AWS Config và Amazon Inspector; thực hiện các bài Hands-on Lab tổng hợp về AWS Organizations, Identity Center, KMS và Security Hub. | 12/06/2026 | 12/06/2026 | <https://000018.awsstudygroup.com> |
 
 
 ### Kết quả đạt được tuần 8:

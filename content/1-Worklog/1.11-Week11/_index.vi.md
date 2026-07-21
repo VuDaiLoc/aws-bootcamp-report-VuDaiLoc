@@ -15,11 +15,11 @@ pre: " <b> 1.11. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
-| 2 | - Tiếp tục phát triển hệ thống AI-Powered Smart Document Assistant, hoàn thiện các chức năng quản lý tài liệu trên nền tảng AWS Amplify Gen 2. | 29/06/2026 | 29/06/2026 | AWS Amplify Gen 2 Documentation AWS AppSync Documentation |
-| 3 | - Triển khai chức năng tải tài liệu lên Amazon S3, lưu metadata vào Amazon DynamoDB thông qua AWS AppSync GraphQL, xây dựng cơ chế kiểm tra định dạng, kích thước tệp trước khi lưu trữ. | 30/06/2026 | 30/06/2026 |  |
-| 4 | - Xây dựng giao diện quản lý tài liệu, hỗ trợ hiển thị danh sách theo phân trang, xem trước, tải xuống và xóa tài liệu bằng Presigned URL của Amazon S3. | 01/07/2026 | 01/07/2026 |  |
-| 5 | - Thiết lập cơ chế giới hạn số lượng tài liệu (Upload Quota) cho từng người dùng. | 02/07/2026 | 02/07/2026 |  |
-| 6 | - Xây dựng giao diện responsive, hỗ trợ Dark/Light Mode; triển khai AWS Lambda được kích hoạt bởi sự kiện Amazon S3 (S3 Event Trigger) để tự động cập nhật trạng thái xử lý tài liệu và chuẩn bị pipeline cho các tác vụ AI. | 03/07/2026 | 03/07/2026 |  |
+| 2 | - Tiếp tục phát triển hệ thống AI-Powered Smart Document Assistant, hoàn thiện các chức năng quản lý tài liệu trên nền tảng AWS Amplify Gen 2. | 29/06/2026 | 29/06/2026 | <https://000134.awsstudygroup.com/> |
+| 3 | - Triển khai chức năng tải tài liệu lên Amazon S3, lưu metadata vào Amazon DynamoDB thông qua AWS AppSync GraphQL, xây dựng cơ chế kiểm tra định dạng, kích thước tệp trước khi lưu trữ. | 30/06/2026 | 30/06/2026 | <https://000134.awsstudygroup.com/> |
+| 4 | - Xây dựng giao diện quản lý tài liệu, hỗ trợ hiển thị danh sách theo phân trang, xem trước, tải xuống và xóa tài liệu bằng Presigned URL của Amazon S3. | 01/07/2026 | 01/07/2026 | <https://000134.awsstudygroup.com/> |
+| 5 | - Thiết lập cơ chế giới hạn số lượng tài liệu (Upload Quota) cho từng người dùng. | 02/07/2026 | 02/07/2026 | <https://000134.awsstudygroup.com/> |
+| 6 | - Xây dựng giao diện responsive, hỗ trợ Dark/Light Mode; triển khai AWS Lambda được kích hoạt bởi sự kiện Amazon S3 (S3 Event Trigger) để tự động cập nhật trạng thái xử lý tài liệu và chuẩn bị pipeline cho các tác vụ AI. | 03/07/2026 | 03/07/2026 | <https://000022.awsstudygroup.com> |
 
 
 ### Kết quả đạt được tuần 11:

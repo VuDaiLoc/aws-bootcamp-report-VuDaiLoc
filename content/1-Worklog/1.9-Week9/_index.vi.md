@@ -15,11 +15,11 @@ pre: " <b> 1.9. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
-| 2 | - Xây dựng bản đặc tả dự án (Project Specification) cho ứng dụng AI-Powered Smart Document Assistant, sử dụng Angular 18+ kết hợp AWS Amplify Gen 2. | 15/06/2026 | 15/06/2026 | AWS Amplify Gen 2 Documentation Angular Documentation |
-| 3 | - Lên danh sách tính năng cốt lõi: Authentication & Authorization, Document Management, User Interface. | 16/06/2026 | 16/06/2026 |  |
-| 4 | - Lên danh sách nhóm tính năng AI nổi bật: OCR & Text Extraction, tóm tắt tự động, chat với tài liệu theo cơ chế RAG, phân loại tài liệu tự động, Semantic Search, tạo embedding; và nhóm tính năng nâng cao cho Phase 2 (chia sẻ link có thời hạn, versioning, tag/folder, audit log, dashboard analytics). | 17/06/2026 | 17/06/2026 |  |
-| 5 | - Thiết kế kiến trúc hệ thống tổng thể: luồng xử lý từ Angular App qua Amplify Hosting (CloudFront + S3), AWS AppSync (GraphQL), Amazon Cognito, pipeline AI gồm AWS Lambda, Amazon Textract (OCR) và Amazon Bedrock (Claude 3.5 Sonnet). | 18/06/2026 | 18/06/2026 |  |
-| 6 | - Xác định cụ thể dịch vụ AWS cho từng layer (Frontend, Backend Framework, Authentication, Storage, Database, API Layer, AI Processing, OCR, Vector Search, Hosting, Monitoring, Security, CI/CD) và ước tính chi phí vận hành khoảng 10–30 USD/tháng. | 19/06/2026 | 19/06/2026 |  |
+| 2 | - Xây dung bản đặc tả dự án (Project Specification) cho ứng dụng AI-Powered Smart Document Assistant, sử dụng Angular 18+ kết hợp AWS Amplify Gen 2. | 15/06/2026 | 15/06/2026 | <https://000134.awsstudygroup.com/> |
+| 3 | - Lên danh sách tính năng cốt lõi: Authentication & Authorization, Document Management, User Interface. | 16/06/2026 | 16/06/2026 | <https://000134.awsstudygroup.com/> |
+| 4 | - Lên danh sách nhóm tính năng AI nổi bật: OCR & Text Extraction, tóm tắt tự động, chat với tài liệu theo cơ chế RAG, phân loại tài liệu tự động, Semantic Search, tạo embedding; và nhóm tính năng nâng cao cho Phase 2 (chia sẻ link có thời hạn, versioning, tag/folder, audit log, dashboard analytics). | 17/06/2026 | 17/06/2026 | <https://cloudjourney.awsstudygroup.com/7-aimlservice/> |
+| 5 | - Thiết kế kiến trúc hệ thống tổng thể: luồng xử lý từ Angular App qua Amplify Hosting (CloudFront + S3), AWS AppSync (GraphQL), Amazon Cognito, pipeline AI gồm AWS Lambda, Amazon Textract (OCR) và Amazon Bedrock (Claude 3.5 Sonnet). | 18/06/2026 | 18/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 6 | - Xác định cụ thể dịch vụ AWS cho từng layer (Frontend, Backend Framework, Authentication, Storage, Database, API Layer, AI Processing, OCR, Vector Search, Hosting, Monitoring, Security, CI/CD) và ước tính chi phí vận hành khoảng 10–30 USD/tháng. | 19/06/2026 | 19/06/2026 | <https://cloudjourney.awsstudygroup.com/1-explore/> |
 
 
 ### Kết quả đạt được tuần 9:
